@@ -1,0 +1,12 @@
+MODIFICACIÓN 1: Mensaje de Feedback de quién gana cada ronda o mano.
+Incluyendo el empate.
+
+MODIFICACIÓN 2: Se gana a partir de 4 puntos y con una diferencia de 2 puntos.
+1-3 Ahora NO
+2-3 Ahora NO
+4-1 Como mínimo
+4-3 No hay ganador
+
+MODIFICACIÓN 3: ¿	Qué hacer en caso de voltear las 26 cartas de los mazos?
+Averiguar Cuándo / Dónde
+Averiguar cómo solucionarlo
